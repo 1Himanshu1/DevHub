@@ -9,13 +9,13 @@ function Navbar() {
   const navigate = useNavigate()
   // const user = false
   // console.log(user)
-
+  // font-semibold uppercase
   return (
     <nav className='flex justify-between items-center p-6 shadow-md my-6 rounded-lg transparentCard'>
       <NavLink to='/posts'>
         <div className='flex flex-col items-center'>
-          <p className='text-xl font-semibold leading-6 text-blue-600 uppercase'>
-            Memories
+          <p className='text-xl font-semibold leading-6 text-blue-600 '>
+            DevHub
           </p>
           <p className='text-xs font-medium leading-3 tracking-[0.22em] text-pink-700'>
             Social Media
