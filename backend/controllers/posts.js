@@ -87,7 +87,7 @@ export const getPostsBySearch = async (req, res) => {
 
     results.results = posts.slice(startIndex, endIndex)
 
-    // can't figure out how this works lol 🙂
+    // can't figure out how this works 🙂
     // results.results = await PostMessage.aggregate(
     //   [
     //     { $match: { title: title, tags: { $in: tags.split(',') } } },

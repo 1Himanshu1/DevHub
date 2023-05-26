@@ -1,6 +1,5 @@
-# Memories Social Media - A Full Stack Web Application
+# DevHub Social Media - A Full Stack Web Application
 
-## URL - https://memoriesocialmedia.netlify.app/
 
 ### Screenshot
 
